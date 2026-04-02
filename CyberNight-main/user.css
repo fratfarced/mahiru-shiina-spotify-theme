@@ -8,7 +8,7 @@
     --text-main: #FFE0BE;
     --text-soft: #CCB7A0;
 
-    --image_url: url("https://raw.githubusercontent.com/me974974/CyberNight/main/assets/nightcity.png?v=1");
+    --image_url: url("https://raw.githubusercontent.com/fratfarced/mahiru-shiina-spotify-theme/main/nightcity.png");
 }
 
 
@@ -25,7 +25,7 @@
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url("https://raw.githubusercontent.com/me974974/CyberNight/main/assets/nightcity.png?v=1");
+    background-image: url("https://raw.githubusercontent.com/fratfarced/mahiru-shiina-spotify-theme/main/nightcity.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@
 .x-progressBar-handle {
 
     background-color: transparent !important;
-    background-image: url("https://raw.githubusercontent.com/me974974/CyberNight/main/assets/david.png?v=1");
+    background-image: url("https://raw.githubusercontent.com/fratfarced/mahiru-shiina-spotify-theme/main/david.png");
     background-size: cover;
     height: 30px;
     width: 20px;
